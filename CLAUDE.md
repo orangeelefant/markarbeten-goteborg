@@ -10,25 +10,19 @@ Webraketen — joint regional guide for markarbeten Göteborg (ES Sten + MS Entr
 
 ## Stack
 
-_(Fill in: framework, language, hosting, key services. Inspect `package.json` / `pyproject.toml` / similar to confirm.)_
+Ingen kod ännu. Repot innehåller bara dokumentation och designkontrakt — sajten är inte byggd.
 
 ## Layout
 
-- `src/` — source code
-- `tests/` — tests
-- `docs/` — documentation
-- `scripts/` — utility scripts
+- `DESIGN.md` — designkontraktet
+- `ABOUT.md`, `README.md` — bakgrund
+- Ingen `src/`, ingen `package.json`
 
 ## Commands
 
 ```bash
-# install
-# build
-# test
-# dev
+Inga. Repot har inget bygge ännu.
 ```
-
-_(Fill in actual commands once known.)`_
 
 ## Conventions
 
