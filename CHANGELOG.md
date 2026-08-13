@@ -6,4 +6,6 @@ Every commit that changes behavior, copy, configuration, or dependencies MUST ad
 
 ## [Unreleased]
 
+- Ersatte bootstrap-platshållarna i `CLAUDE.md` med repots verkliga stack, layout och kommandon (2026-08-13).
+
 - Bootstrapped `AGENTS.md`, `CLAUDE.md`, `CHANGELOG.md`, `TODO.md` (2026-05-25).
