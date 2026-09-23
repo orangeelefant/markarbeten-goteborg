@@ -4,7 +4,7 @@ Mandatory instructions for automation agents (Claude Code, Codex, etc.) working 
 
 ## Repository
 
-- **Name:** `Webraketen/markarbeten-goteborg`
+- **Name:** `orangeelefant/markarbeten-goteborg`
 - **Purpose:** Webraketen — joint regional guide for markarbeten Göteborg (ES Sten + MS Entreprenad)
 - **Production URL:** https://esstenochanlaggning.se
 
