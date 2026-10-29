@@ -6,6 +6,7 @@ Every commit that changes behavior, copy, configuration, or dependencies MUST ad
 
 ## [Unreleased]
 
+- Länkarna till hemstadgoteborg.com är borttagna enligt Christoffers beslut (2026-10-29).
 - Rättade repo-namnet i `AGENTS.md` till `orangeelefant/markarbeten-goteborg`; Webraketen-organisationen finns inte längre (2026-09-23).
 
 - Ersatte bootstrap-platshållarna i `CLAUDE.md` med repots verkliga stack, layout och kommandon (2026-08-13).
